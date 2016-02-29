@@ -29,4 +29,4 @@ notifications:
   irc:
    pull_requests: true
    channels:
-    - "chat.freenode.net#test-irc"
+    - "chat.freenode.net#test-irc"  
